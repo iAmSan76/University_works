@@ -1,0 +1,12 @@
+a= type(100/5)
+b= type(7/2)
+c=type(7//2)
+d=type(7%2)
+f= type('a')
+g=type("type"+".")
+h=type
+print(a)
+print(b)
+print(c)
+print(d)
+print(f)
