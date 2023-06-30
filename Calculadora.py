@@ -1,9 +1,4 @@
-"""Integrantes:
-Werney Barajas
-Santiago Palacios
-Sebastián Merchán
-Actividad:
-Realizar una calculadora sencilla con las operaciones básicas"""
+
 
 # Lo primero es invocar a la clase tkinter para poder trabajar con sus métodos, luego se importan las librerias sys la cual sirve para
 # un cierre repentino del programa, esto se da cuando se divide entre 0, y la libreria time es para generar un delay en el programa en caso de
